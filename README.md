@@ -29,7 +29,7 @@ password: guest
 
 You can see `Queues` are empty.
 
-##### Running
+#### Running
 Open a terminal to start the `receiver` by typing the command bellow:
 ```bash
 python3 receiver.py
